@@ -1,7 +1,7 @@
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
-This sample code helps get you started with a simple Python web service using
+This sample code helps get you started with a simple Python web service usin
 AWS Lambda and Amazon API Gateway.
 
 What's Here
